@@ -20,3 +20,4 @@ Use this category for programs where Jev produces rubric scores, quality grades,
 - [JevSlop](https://github.com/TKY-27/JevSlop) - Writing quality: scores public note.com articles on eight Jev `Score` axes inside a single `systemOne` request and turns them into a 0-100 Slop Score in ordinary TypeScript.
 - [SemanticSpace](https://semanticspace.dev/) - Semantic mapping: places phrases in 2D by asking Jev how strongly each one relates to two chosen axis concepts and using those scores as coordinates.
 - [Supercov](https://github.com/supercorp-ai/supercov) - Code quality for coding agents: Jev answers twelve `Noul` properties per source file so the agent knows what to fix first.
+- [jev.nvim](https://github.com/valentynkit/jev.nvim) - Developer tooling: Neovim plugin that splits the buffer into functions with Treesitter, scores each against a plain-language question with Jev, and ranks answers by probability in quickfix.
