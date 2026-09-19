@@ -16,3 +16,4 @@ Use this category for decisions inside games, simulations, or interactive enviro
 - [jev-plays-pokemon](https://github.com/milanboers/jev-plays-pokemon) - Gaming: reads Pokémon Red game state as text, answers typed questions each turn, and lets deterministic code turn the answers into moves.
 - [typesafe-jev-drone-demo](https://github.com/kxzk/typesafe-jev-drone-demo) - Simulation: Three.js drone simulator with a Python backend where Jev drives the navigation decisions.
 - [typesafe-playground](https://github.com/kavehmz/typesafe-playground) - Interactive playground: small Jev experiments that put the decision on screen, from routing a support message to steering a car in a 3D world.
+- [jev-plays-pokemon-red](https://github.com/valentynkit/jev-plays-pokemon-red) - Gaming: Pokemon Red on PyBoy where deterministic code owns the route and arithmetic, Jev picks only at branches, and every battle turn's faint prediction is scored by Brier against RAM state.
